@@ -32,3 +32,5 @@ C:\Users\COMLABPC6\source\repos\SherrilynFrondozo\SherrilynFrondozo.Web\obj\Debu
 C:\Users\COMLABPC6\source\repos\SherrilynFrondozo\SherrilynFrondozo.Web\obj\Debug\netcoreapp2.1\SherrilynFrondozo.Web.csproj.CopyComplete
 C:\Users\COMLABPC6\source\repos\SherrilynFrondozo\SherrilynFrondozo.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
 C:\Users\COMLABPC6\source\repos\SherrilynFrondozo\SherrilynFrondozo.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\UpdateProfile.g.cshtml.cs
+C:\Users\Shayne Maravillo\Documents\Sherrilyn.Web\SherrilynFrondozo.Web\obj\Debug\netcoreapp2.1\SherrilynFrondozo.Web.dll
+C:\Users\Shayne Maravillo\Documents\Sherrilyn.Web\SherrilynFrondozo.Web\obj\Debug\netcoreapp2.1\SherrilynFrondozo.Web.pdb
